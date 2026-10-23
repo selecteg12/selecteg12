@@ -42,7 +42,7 @@ I use AI coding tools to develop prototypes, review generated code, test behavio
 | Project | Problem and approach | Results and scope |
 | --- | --- | --- |
 | [Avito search and ranking](https://github.com/selecteg12/bootcamp_av) | Retrieve relevant service listings with TF-IDF and BM25, then rerank candidates using LightGBM LambdaRank. | Reported platform Recall@50: **0.602930**. Local validation Recall@50: **0.5768** on unseen queries and **0.5902** on historical queries. |
-| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait-scoring app with neural inference, 478 facial landmarks, technical image checks, and an interactive measurement breakdown. | Python/FastAPI backend and React/TypeScript frontend. Evaluation limitations and dataset provenance are documented; scoring is experimental. The current revision is documented as verified locally. |
+| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait-scoring app with neural inference, 478 facial landmarks, technical image checks, and an interactive measurement breakdown. | Python/FastAPI backend and React/TypeScript frontend. Evaluation limitations and dataset provenance are documented; scoring is experimental. The current revision is deployed on Vercel, with public API and browser-upload checks documented. [Live app](https://facemetrics-ai.vercel.app). |
 
 ## Data analytics
 
