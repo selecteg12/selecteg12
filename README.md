@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a fourth-year Applied Mathematics and Informatics student at Plekhanov Russian University of Economics in Moscow. My projects cover search and ranking, product analytics, and applications that connect AI to useful tools.
+I'm a fourth-year Applied Mathematics and Informatics student. My projects cover search and ranking, product analytics, and applications that connect AI to useful tools.
 
 I'm looking for internships in **data analytics, ML, or applied AI**. I'm also interested in **technical project management** and **AI-assisted prototyping**.
 
