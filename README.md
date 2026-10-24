@@ -32,7 +32,7 @@ I use AI coding tools to develop prototypes, review generated code, test behavio
 | Data analysis | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
 | Statistics | A/B testing, conversion analysis, confidence intervals, hypothesis testing |
 | Search and ML | scikit-learn, LightGBM LambdaRank, TF-IDF, BM25, Recall@K |
-| Computer vision | PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
+| Computer vision | TensorFlow/Keras, CNNs, PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
 | AI applications | LLM APIs, tool calling, Node.js, Telegraf, Supabase |
 | Application development | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
 | Development workflow | Git, GitHub, Vercel, automated tests, AI-assisted development |
@@ -43,6 +43,7 @@ I use AI coding tools to develop prototypes, review generated code, test behavio
 | --- | --- | --- |
 | [Avito search and ranking](https://github.com/selecteg12/bootcamp_av) | Retrieve relevant service listings with TF-IDF and BM25, then rerank candidates using LightGBM LambdaRank. | Reported platform Recall@50: **0.602930**. Local validation Recall@50: **0.5768** on unseen queries and **0.5902** on historical queries. |
 | [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait-scoring app with neural inference, 478 facial landmarks, technical image checks, and an interactive measurement breakdown. | Python/FastAPI backend and React/TypeScript frontend. Evaluation limitations and dataset provenance are documented; scoring is experimental. The current revision is deployed on Vercel, with public API and browser-upload checks documented. [Live app](https://facemetrics-ai.vercel.app). |
+| [cat/dog CNN](https://github.com/selecteg12/cat-dog-CNN) | Cat/dog image classification with a custom convolutional neural network trained from scratch in TensorFlow/Keras. Audits 25,000 images, removes exact duplicates, and uses disjoint train/validation/test splits. | **90.18% test accuracy** (3,380 / 3,748 images). Includes a Colab notebook, learning curves, per-class metrics, screenshots, a photo demo, and batch CSV inference. No pretrained weights. |
 
 ## Data analytics
 
@@ -78,3 +79,4 @@ These are learning resources, with attribution to the original authors.
 </details>
 
 <!-- Before publishing, add your preferred public email, Telegram, and/or CV link here. -->
+
