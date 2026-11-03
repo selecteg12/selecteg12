@@ -1,5 +1,7 @@
 <div align="center">
 
+<p><strong>English</strong> | <a href="https://github.com/selecteg12/selecteg12/blob/main/README.ru.md">Русский</a></p>
+
 <h1>Hi, I'm Egor</h1>
 
 <p><strong>Data Analytics · Machine Learning · AI Applications</strong></p>
