@@ -19,11 +19,11 @@
 
 ## About me
 
-I'm a fourth-year Applied Mathematics and Informatics student. My projects cover search and ranking, product analytics, and applications that connect AI to useful tools.
+I'm a fourth-year Applied Mathematics and Informatics student. My projects include search ranking, product experiments, a planning app and a Telegram assistant.
 
 I'm looking for internships in **data analytics, ML, or applied AI**. I'm also interested in **technical project management** and **AI-assisted prototyping**.
 
-I use AI coding tools to develop prototypes, review generated code, test behaviour, and iterate on features. My focus is understanding the data, evaluating results, and making the application useful.
+I use AI coding tools for prototyping and code review. I check the generated code, test how it behaves, and refine the result.
 
 [Machine learning](#machine-learning) · [Data analytics](#data-analytics) · [AI and automation](#ai-and-automation) · [Applications and project delivery](#applications-and-project-delivery)
 
@@ -82,4 +82,3 @@ These are learning resources, with attribution to the original authors.
 </details>
 
 <!-- Before publishing, add your preferred public email, Telegram, and/or CV link here. -->
-
