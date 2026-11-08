@@ -19,8 +19,7 @@
 
 ## About me
 
-I'm a fourth-year Applied Mathematics and Informatics student. My projects include search ranking, product experiments, a planning app and a Telegram assistant.
-
+I'm a fourth-year Applied Mathematics and Informatics student. 
 I'm looking for internships in **data analytics, ML, or applied AI**. I'm also interested in **technical project management** and **AI-assisted prototyping**.
 
 I use AI coding tools for prototyping and code review. I check the generated code, test how it behaves, and refine the result.
