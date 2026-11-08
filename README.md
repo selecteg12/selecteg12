@@ -4,8 +4,8 @@
 
 <h1>Hi, I'm Egor</h1>
 
-<p><strong>Data Analytics · Machine Learning · AI Applications</strong></p>
-<p>Applied Mathematics & Informatics student · Moscow · Open to internships</p>
+<p>Fourth-year Applied Mathematics and Informatics student · Moscow</p>
+<p><strong>Seeking a data analytics internship</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
@@ -16,42 +16,22 @@
 
 </div>
 
-## About me
-
-I'm a fourth-year Applied Mathematics and Informatics student. 
-I'm looking for internships in **data analytics, ML, or applied AI**. I'm also interested in **technical project management** and **AI-assisted prototyping**.
-
-I use AI coding tools for prototyping and code review. I check the generated code, test how it behaves, and refine the result.
-
-[Machine learning](#machine-learning) · [Data analytics](#data-analytics) · [AI and automation](#ai-and-automation) · [Applications and project delivery](#applications-and-project-delivery)
-
-## Technologies used in my projects
-
-| Area | Technologies and methods |
-| --- | --- |
-| Data analysis | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
-| Statistics | A/B testing, conversion analysis, confidence intervals, hypothesis testing |
-| Search and ML | scikit-learn, LightGBM LambdaRank, CatBoost, XGBoost, tabular AutoML, TF-IDF, BM25, Recall@K |
-| Computer vision | TensorFlow/Keras, CNNs, PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
-| AI applications | LLM APIs, tool calling, Node.js, Telegraf, Supabase |
-| Application development | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
-| Development workflow | Git, GitHub, Vercel, automated tests, AI-assisted development |
-
-## Machine learning
-
-| Project | Problem and approach | Results and scope |
-| --- | --- | --- |
-| [Avito search and ranking](https://github.com/selecteg12/bootcamp_av) | Retrieve relevant service listings with TF-IDF and BM25, then rerank candidates using LightGBM LambdaRank. | Reported platform Recall@50: **0.602930**. Local validation Recall@50: **0.5768** on unseen queries and **0.5902** on historical queries. |
-| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait analysis with 478 facial landmarks, image quality checks and an interactive breakdown of measurements. | Python/FastAPI, React and TypeScript. [Live app](https://mogzilla.2-27-32-143.sslip.io/) |
-| [cat/dog CNN](https://github.com/selecteg12/cat-dog-CNN) | Cat/dog image classification with a custom convolutional neural network trained from scratch in TensorFlow/Keras. Audits 25,000 images, removes exact duplicates, and uses disjoint train/validation/test splits. | **90.18% test accuracy** (3,380 / 3,748 images). Includes a Colab notebook, learning curves, per-class metrics, screenshots, a photo demo, and batch CSV inference. No pretrained weights. |
+[Data analytics](#data-analytics) · [Machine learning](#machine-learning) · [AI and automation](#ai-and-automation) · [Applications](#applications) · [PM](#pm)
 
 ## Data analytics
 
 | Project | Question | Work and deliverable |
 | --- | --- | --- |
-| [BitMotion A/B test](https://github.com/selecteg12/bitmotion-ab-test) | Does a redesigned store interface improve seven-day purchase conversion? | User-level analysis of **9,963 users**, experiment checks, uplift and confidence intervals. Observed uplift: **1.73 percentage points**; the two-sided 95% confidence interval includes zero. Includes a reproducible script and saved results. |
-| [Event ticket sales](https://github.com/selecteg12/event-ticket-sales-analysis) | How do demand, devices, regions, and ticket partners differ? | PostgreSQL queries, Python analysis, and a [DataLens dashboard](https://datalens.yandex/l4t1anvif4bm5?tab=mg). The source extract contains **290,849 orders**, with **214,408** in the processed Python sample; SQL and Python use different data slices. |
+| [BitMotion A/B test](https://github.com/selecteg12/bitmotion-ab-test) | Does a redesigned store interface improve seven-day purchase conversion? | User-level analysis of **9,963 users**, experiment checks, uplift and confidence intervals. The observed increase was **1.73 percentage points**, with zero inside the 95% confidence interval. Includes a reproducible script and saved results. |
+| [Event ticket sales](https://github.com/selecteg12/event-ticket-sales-analysis) | How do ticket sales vary by season, region, and device? | Analyzed orders using PostgreSQL and Python. The top three regions accounted for about **53% of orders** in the processed sample. [DataLens dashboard](https://datalens.yandex/l4t1anvif4bm5?tab=mg) |
 | [Real estate analysis](https://github.com/selecteg12/real-estate-analysis) | How do apartment characteristics, listing duration, and seasonal activity vary? | PostgreSQL queries using CTEs, window functions and percentiles, plus a [DataLens dashboard](https://datalens.yandex/ngd6s7nfao0u7). Listing removal is not treated as proof of a sale. |
+
+## Machine learning
+
+| Project | Problem and approach | Results and scope |
+| --- | --- | --- |
+| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait analysis with 478 facial landmarks, image quality checks and an interactive breakdown of measurements. | Python/FastAPI, React and TypeScript. [Live app](https://mogzilla.2-27-32-143.sslip.io/) |
+| [cat/dog CNN](https://github.com/selecteg12/cat-dog-CNN) | Cat/dog image classification with a custom convolutional neural network trained from scratch in TensorFlow/Keras. Audits 25,000 images, removes exact duplicates, and uses disjoint train/validation/test splits. | **90.18% test accuracy** (3,380 / 3,748 images). Includes a Colab notebook, learning curves, per-class metrics, screenshots, a photo demo, and batch CSV inference. No pretrained weights. |
 
 ## AI and automation
 
@@ -61,7 +41,7 @@ I use AI coding tools for prototyping and code review. I check the generated cod
 
 The assistant and the [Planner web app](https://github.com/selecteg12/planner-app) use the same Supabase data.
 
-## Applications and project delivery
+## Applications
 
 | Project | Product | Delivery artifacts |
 | --- | --- | --- |
@@ -74,6 +54,18 @@ The assistant and the [Planner web app](https://github.com/selecteg12/planner-ap
 | --- | --- |
 | [Alfa AutoML Hackathon](https://github.com/selecteg12/alfa-automl-hackathon) | AutoML agent for tabular data that compares models and exports predictions. |
 
+## Tools and methods
+
+| Area | Technologies and methods |
+| --- | --- |
+| Data analysis | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
+| Statistics | A/B testing, conversion analysis, confidence intervals, hypothesis testing |
+| Machine learning | scikit-learn, LightGBM, CatBoost, XGBoost, TensorFlow/Keras |
+| Computer vision | TensorFlow/Keras, CNNs, PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
+| AI applications | LLM APIs, tool calling, Node.js, Telegraf, Supabase |
+| Application development | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
+| Development and testing | Git, GitHub, automated tests |
+
 <details>
 <summary>Learning resources</summary>
 
@@ -83,5 +75,3 @@ The assistant and the [Planner web app](https://github.com/selecteg12/planner-ap
 These are learning resources, with attribution to the original authors.
 
 </details>
-
-<!-- Before publishing, add your preferred public email, Telegram, and/or CV link here. -->
