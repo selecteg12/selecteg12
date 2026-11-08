@@ -43,8 +43,7 @@ I use AI coding tools for prototyping and code review. I check the generated cod
 | Project | Problem and approach | Results and scope |
 | --- | --- | --- |
 | [Avito search and ranking](https://github.com/selecteg12/bootcamp_av) | Retrieve relevant service listings with TF-IDF and BM25, then rerank candidates using LightGBM LambdaRank. | Reported platform Recall@50: **0.602930**. Local validation Recall@50: **0.5768** on unseen queries and **0.5902** on historical queries. |
-| [Alfa AutoML Agent](https://github.com/selecteg12/alfa-automl-hackathon) | Autonomous tabular ML agent: reads a task, directs model and feature experiments through LLM tool calls, and produces a validated submission. | Five-person hackathon project: **49th / 226 on the private leaderboard**, **55th / 226 public**. My focus: project coordination, environment readiness, release checks and reproducible ZIP packaging. |
-| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait-scoring app with neural inference, 478 facial landmarks, technical image checks, and an interactive measurement breakdown. | Python/FastAPI backend and React/TypeScript frontend. Evaluation limitations and dataset provenance are documented; scoring is experimental. The current revision is deployed on Vercel, with public API and browser-upload checks documented. [Live app](https://facemetrics-ai.vercel.app). |
+| [Mogzilla](https://github.com/selecteg12/mogzilla) | Experimental portrait analysis with 478 facial landmarks, image quality checks and an interactive breakdown of measurements. | Python/FastAPI, React and TypeScript. [Live app](https://mogzilla.2-27-32-143.sslip.io/) |
 | [cat/dog CNN](https://github.com/selecteg12/cat-dog-CNN) | Cat/dog image classification with a custom convolutional neural network trained from scratch in TensorFlow/Keras. Audits 25,000 images, removes exact duplicates, and uses disjoint train/validation/test splits. | **90.18% test accuracy** (3,380 / 3,748 images). Includes a Colab notebook, learning curves, per-class metrics, screenshots, a photo demo, and batch CSV inference. No pretrained weights. |
 
 ## Data analytics
@@ -69,6 +68,12 @@ The assistant and the [Planner web app](https://github.com/selecteg12/planner-ap
 | --- | --- | --- |
 | [Planner](https://github.com/selecteg12/planner-app) | A personal planning web app with tasks, calendar, habits, and productivity statistics. | Next.js, React, Supabase and PostgreSQL. A separate Telegram AI integration is available in the assistant repository. |
 | [English Buddy](https://github.com/selecteg12/english-buddy) | Windows companion for looking up selected English words and saving vocabulary, with a bundled English–Russian dictionary. | Electron, React, TypeScript and a C# Windows UI Automation helper. [Windows release](https://github.com/selecteg12/english-buddy/releases/tag/v0.1.3), [changelog](https://github.com/selecteg12/english-buddy/blob/codex/initial-release/CHANGELOG.md), and [verification report](https://github.com/selecteg12/english-buddy/blob/codex/initial-release/VERIFICATION.md). |
+
+## PM
+
+| Project | Description |
+| --- | --- |
+| [Alfa AutoML Hackathon](https://github.com/selecteg12/alfa-automl-hackathon) | AutoML agent for tabular data that compares models and exports predictions. |
 
 <details>
 <summary>Learning resources</summary>
