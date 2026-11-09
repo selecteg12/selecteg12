@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL и PostgreSQL" />
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Машинное обучение" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/AI_Applications-7C3AED?style=flat-square" alt="ИИ-приложения" />
 </p>
 
