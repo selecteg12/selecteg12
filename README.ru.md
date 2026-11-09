@@ -18,6 +18,18 @@
 
 [Аналитика данных](#аналитика-данных) · [Машинное обучение](#машинное-обучение) · [ИИ и автоматизация](#ии-и-автоматизация) · [Приложения](#приложения) · [PM](#pm)
 
+## Инструменты и методы
+
+| Направление | Технологии и методы |
+| --- | --- |
+| Анализ данных | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
+| Статистика | A/B-тестирование, анализ конверсии, доверительные интервалы, проверка гипотез |
+| Машинное обучение | scikit-learn, LightGBM, CatBoost, XGBoost, TensorFlow/Keras |
+| Компьютерное зрение | TensorFlow/Keras, свёрточные нейросети, PyTorch, OpenCV, MediaPipe, ключевые точки лица, FastAPI |
+| ИИ-приложения | API языковых моделей, вызов инструментов, Node.js, Telegraf, Supabase |
+| Разработка приложений | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
+| Разработка и проверка | Git, GitHub, автоматизированные тесты |
+
 ## Аналитика данных
 
 | Проект | Вопрос | Работа и результат |
@@ -53,25 +65,3 @@
 | Проект | Описание |
 | --- | --- |
 | [Alfa AutoML Hackathon](https://github.com/selecteg12/alfa-automl-hackathon) | AutoML-агент для табличных данных. Сравнивает модели и сохраняет предсказания. |
-
-## Инструменты и методы
-
-| Направление | Технологии и методы |
-| --- | --- |
-| Анализ данных | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
-| Статистика | A/B-тестирование, анализ конверсии, доверительные интервалы, проверка гипотез |
-| Машинное обучение | scikit-learn, LightGBM, CatBoost, XGBoost, TensorFlow/Keras |
-| Компьютерное зрение | TensorFlow/Keras, свёрточные нейросети, PyTorch, OpenCV, MediaPipe, ключевые точки лица, FastAPI |
-| ИИ-приложения | API языковых моделей, вызов инструментов, Node.js, Telegraf, Supabase |
-| Разработка приложений | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
-| Разработка и проверка | Git, GitHub, автоматизированные тесты |
-
-<details>
-<summary>Учебные материалы</summary>
-
-- [AI for Beginners](https://github.com/selecteg12/AI-For-Beginners) — личный форк учебного курса Microsoft.
-- [ML for Beginners](https://github.com/selecteg12/ML-For-Beginners) — личный форк учебного курса Microsoft.
-
-Это учебные материалы с указанием авторов оригинала.
-
-</details>

@@ -18,6 +18,18 @@
 
 [Data analytics](#data-analytics) · [Machine learning](#machine-learning) · [AI and automation](#ai-and-automation) · [Applications](#applications) · [PM](#pm)
 
+## Tools and methods
+
+| Area | Technologies and methods |
+| --- | --- |
+| Data analysis | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
+| Statistics | A/B testing, conversion analysis, confidence intervals, hypothesis testing |
+| Machine learning | scikit-learn, LightGBM, CatBoost, XGBoost, TensorFlow/Keras |
+| Computer vision | TensorFlow/Keras, CNNs, PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
+| AI applications | LLM APIs, tool calling, Node.js, Telegraf, Supabase |
+| Application development | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
+| Development and testing | Git, GitHub, automated tests |
+
 ## Data analytics
 
 | Project | Question | Work and deliverable |
@@ -53,25 +65,3 @@ The assistant and the [Planner web app](https://github.com/selecteg12/planner-ap
 | Project | Description |
 | --- | --- |
 | [Alfa AutoML Hackathon](https://github.com/selecteg12/alfa-automl-hackathon) | AutoML agent for tabular data that compares models and exports predictions. |
-
-## Tools and methods
-
-| Area | Technologies and methods |
-| --- | --- |
-| Data analysis | Python, SQL, PostgreSQL, pandas, NumPy, Matplotlib, Seaborn, DataLens |
-| Statistics | A/B testing, conversion analysis, confidence intervals, hypothesis testing |
-| Machine learning | scikit-learn, LightGBM, CatBoost, XGBoost, TensorFlow/Keras |
-| Computer vision | TensorFlow/Keras, CNNs, PyTorch, OpenCV, MediaPipe, facial landmarks, FastAPI |
-| AI applications | LLM APIs, tool calling, Node.js, Telegraf, Supabase |
-| Application development | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Electron |
-| Development and testing | Git, GitHub, automated tests |
-
-<details>
-<summary>Learning resources</summary>
-
-- [AI for Beginners](https://github.com/selecteg12/AI-For-Beginners) — personal study fork of Microsoft's curriculum.
-- [ML for Beginners](https://github.com/selecteg12/ML-For-Beginners) — personal study fork of Microsoft's curriculum.
-
-These are learning resources, with attribution to the original authors.
-
-</details>
